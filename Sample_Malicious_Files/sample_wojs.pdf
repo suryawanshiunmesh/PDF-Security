@@ -1,0 +1,58 @@
+%PDF-1.5
+
+1 0 obj
+<<
+/Type /Catalog
+%/OpenAction
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [3 0 R]
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources << /Font << /F1 5 0 R >>
+>>
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+>>
+endobj
+
+4 0 obj
+<< /Length 45 >>
+stream
+BT
+/F1 24 Tf
+225 700 Td (CSU, East Bay) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Arial
+>>
+endobj
+
+xref
+0 6
+
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+
+%%EOF
